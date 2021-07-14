@@ -4,8 +4,8 @@ This repository contains the source codes of the projects of the course Self-Dri
 
 # Folders
 
-* Lesson_4 *
+* **Lesson_4**:
     source codes of lesson 4
 
-* Project_1 *
+* **Project_1**:
     source codes of Project 1 - Finding Lane Lines
